@@ -1,0 +1,17 @@
+/* src/components/Header.css */
+header {
+    background-color: #0f4c81; /* Adjust background color as needed */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  header button {
+    margin-top: 10px;
+  }
+  

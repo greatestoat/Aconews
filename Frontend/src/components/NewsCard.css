@@ -1,0 +1,25 @@
+/* src/components/NewsCard.css */
+.news-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .news-card h2 {
+    font-size: 1.5em;
+    margin: 0 0 10px 0;
+  }
+  
+  .news-card p {
+    font-size: 1em;
+  }
+  
+  .news-card a {
+    color: #0f4c81;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  

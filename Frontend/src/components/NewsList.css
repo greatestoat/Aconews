@@ -1,0 +1,14 @@
+/* src/components/NewsList.css */
+.news-list {
+    padding: 20px;
+  }
+  
+  .news-list h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .news-list .news-card {
+    margin: 10px 0;
+  }
+  
