@@ -15,6 +15,7 @@ Each button now features a neon-frame design, which enhances its appearance.
  And each page have been implemented.
  Api.js for apicallback();
  And implemented in Firebase hosting.
+ .env is main for the api key to run.
  
 
 The Feature are the NEWS FETCHING: Fetches news articles using the GNews API.
