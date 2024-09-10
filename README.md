@@ -24,3 +24,23 @@ And the Prerequisites are
 Node.js (v14 or later)
 npm
 API Key from GNews.io
+
+
+
+
+Aconews Structure
+acqonews/
+│
+├── backend/              # Backend (Express.js)
+│   ├── server.js         #  Backend file
+│   ├── package.json      # Backend dependencies and scripts
+│   └── (other backend files)
+│
+├── frontend/             # Frontend (React.js)
+│   ├── src/
+│   ├── public/
+│   ├── package.json      # Frontend dependencies and scripts
+│   └── (other frontend files)
+│
+├── package.json          # Root package.json for  both backend and frontend
+└── README.md             
