@@ -7,7 +7,7 @@ And the problems faced myself are cors that i have solved with the ----->npm ins
 
  Faced little bit hard to run server.js which is present in the backend and i have implemented connection and i have run having some con's but runned the machine.
  And taken APi from the gnews.io
- And runs it on localhost:3000.
+ And runs it on localhost:5000.
  And uses node_modules
  package.json 
  package-lock.json (which will install directly when we install npm)
